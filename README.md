@@ -12,6 +12,7 @@ prepare the environment
 git clone ...
 cd <repo>
 python -m venv .venv
+source .venv/bin/activate # if fish, use .fish  if pwsh, use .pwsh
 pip install -r requirements.txt
 ```
 
