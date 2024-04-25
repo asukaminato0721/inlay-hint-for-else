@@ -1,0 +1,4 @@
+simplify not expressions, `(not (not x))` could be x
+use namedtuple/dataclasses, currently use tuple
+user friendly
+remove extra bracket (maybe use black)
